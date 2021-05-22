@@ -12,7 +12,7 @@
 *.app
 
 bazel-*
-main*
+
 
 build/*
 !build/.gitkeep
