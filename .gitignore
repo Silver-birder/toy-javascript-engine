@@ -13,3 +13,6 @@
 
 bazel-*
 main*
+
+build/*
+!build/.gitkeep

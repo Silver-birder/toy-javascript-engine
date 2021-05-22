@@ -1,8 +1,10 @@
 # toy-javascript-engine
 
 ```
-$ bazel build //src:engine
-$ bazel-bin/src/engine
+$ cd build
+$ cmake ..
+$ make
+$ ./main
 ```
 
 ```
